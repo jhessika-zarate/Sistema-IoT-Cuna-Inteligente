@@ -22,11 +22,11 @@ Este repositorio integra los siguientes componentes, cada uno alojado en reposit
 
 3. **Código IoT**  
    Scripts en MicroPython para el control de sensores y actuadores en un microcontrolador ESP32, incluyendo la comunicación con el backend.  
-   [Ver Repositorio IoT](https://github.com/usuario/cuna-inteligente-iot)
+   [Ver Repositorio IoT](https://github.com/LuwuVelasco/CunaInteligente)
 
 4. **Modelo de Red Neuronal**  
    Código en Python para el entrenamiento y la predicción de un modelo CNN que clasifica el llanto del bebé.  
-   [Ver Repositorio Red Neuronal](https://github.com/LuwuVelasco/CunaInteligente)
+   [Ver Repositorio Red Neuronal](https://github.com/jhessika-zarate/backendpythoncuna)
 
 ---
 
