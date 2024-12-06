@@ -14,11 +14,11 @@ Este repositorio integra los siguientes componentes, cada uno alojado en reposit
 
 1. **Frontend**  
    Aplicación web desarrollada en Vue.js que permite visualizar datos en tiempo real, recibir alertas y controlar dispositivos conectados.  
-   [Ver Repositorio Frontend](https://github.com/usuario/cuna-inteligente-frontend)
+   [Ver Repositorio Frontend](https://github.com/jhessika-zarate/Cuna-Inteligente-Frontend)
 
 2. **Backend**  
    API RESTful desarrollada en Spring Boot, responsable de gestionar los datos de los sensores, almacenar registros en la base de datos y comunicarse con el frontend y los dispositivos IoT.  
-   [Ver Repositorio Backend](https://github.com/usuario/cuna-inteligente-backend)
+   [Ver Repositorio Backend](https://github.com/jhessika-zarate/backend-cuna-inteligente)
 
 3. **Código IoT**  
    Scripts en MicroPython para el control de sensores y actuadores en un microcontrolador ESP32, incluyendo la comunicación con el backend.  
@@ -26,16 +26,18 @@ Este repositorio integra los siguientes componentes, cada uno alojado en reposit
 
 4. **Modelo de Red Neuronal**  
    Código en Python para el entrenamiento y la predicción de un modelo CNN que clasifica el llanto del bebé.  
-   [Ver Repositorio Red Neuronal](https://github.com/usuario/cuna-inteligente-rnn)
+   [Ver Repositorio Red Neuronal](https://github.com/LuwuVelasco/CunaInteligente)
 
 ---
 
 ## Problemática y Solución Propuesta
 
 ### Problemática
+
 El monitoreo constante de un bebé puede ser desafiante y agotador. Los cuidadores necesitan herramientas que les permitan automatizar tareas como el control de temperatura, humedad y detección de movimientos, así como identificar patrones en el llanto del bebé.
 
 ### Solución
+
 La **Cuna Inteligente** integra sensores IoT, procesamiento de datos y una interfaz gráfica para ofrecer una solución completa que:
 
 - **Monitorea** las condiciones ambientales y el comportamiento del bebé.
